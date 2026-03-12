@@ -18,4 +18,7 @@ A real-time messaging platform designed for instant communication between multip
 * **WebSockets:** Socket.io for bidirectional, low-latency communication.
 * **Deployment:** Hosted on Render.
 
----
+<img width="643" height="830" alt="image" src="https://github.com/user-attachments/assets/6f07ab2c-9925-4e13-a525-5753d940784d" />
+
+<img width="695" height="817" alt="image" src="https://github.com/user-attachments/assets/e4e7f662-5aa1-4688-a128-356eeb9b9e18" />
+
